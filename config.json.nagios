@@ -1,6 +1,0 @@
-{
-    "nagios_main_cfg": "/etc/nagios/nagios.cfg",
-    "output_dir": "/etc/nagios/servers"
-    "host" : "0.0.0.0",
-    "port" : "5000"
-}
